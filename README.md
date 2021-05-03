@@ -1,6 +1,8 @@
 # Book-Search-Engine
 
-    This app allows you to search book from GoogleBook api and store searched book under your account for future reference. This app was buit using Rest Api , now it is into GraphQL Api with Apollo Server. It uses the MERN with React FronEnd Node.js/Express.js server and API and MongoDB  Database
+    This app allows you to search book from GoogleBook api and store searched book under your account 
+    for future reference. This app was buit using Rest Api , now it is into GraphQL Api with Apollo Server.
+    It uses the MERN with React FronEnd Node.js/Express.js server and API and MongoDB  Database
 
 ### Technology 
     - React JS
